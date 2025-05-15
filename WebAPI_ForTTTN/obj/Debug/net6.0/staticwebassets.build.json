@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kPyaPAQMoNFXy6ut/37Ysg8oASvuUb02EzpWgezvejM=",
+  "Source": "WebAPI_ForTTTN",
+  "BasePath": "_content/WebAPI_ForTTTN",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
